@@ -121,3 +121,4 @@ export default function SystemStatus({ healthData, loading, onRefresh, error }) 
     </section>
   )
 }
+
